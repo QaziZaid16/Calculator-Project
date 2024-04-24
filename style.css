@@ -16,6 +16,24 @@ body {
   cursor: pointer;
   box-shadow: white;
 }
+#clear{
+  width: 132px;
+  padding: 20px;
+  margin: 0 3px;
+  border: 2px solid white;
+  border-radius: 9px;
+  cursor: pointer;
+  box-shadow: white;
+}
+#equal{
+  width: 132px;
+  padding: 20px;
+  margin: 0 3px;
+  border: 2px solid white;
+  border-radius: 9px;
+  cursor: pointer;
+  box-shadow: white;
+}
 
 .row {
   margin: 8px 0;
@@ -28,3 +46,4 @@ body {
   border: 2px solid black;
   border-radius: 5px;
 }
+
