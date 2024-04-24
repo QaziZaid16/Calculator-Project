@@ -14,10 +14,10 @@ html, body {
   cursor: pointer;
 }
 
-row1 row2 row3 row4{
+.row1 .row2 .row3 .row4{
   margin: 8px 0;
 }
-row1 row2 row3 row4 input{
+.row1 .row2 .row3 .row4 input{
   width: 291px;
   font-size: 20px;
     margin: 0;
