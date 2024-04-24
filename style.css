@@ -14,7 +14,7 @@ html, body {
   cursor: pointer;
 }
 
-.row{
+.row1, row2, row3, row4{
   margin: 8px 0;
 }
 .row input{
