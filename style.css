@@ -7,6 +7,9 @@ body {
   background-color: rgba(18, 25, 37, 1);
 }
 
+.text-center{
+  color: white;
+}
 .button {
   width: 66px;
   padding: 20px;
