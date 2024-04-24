@@ -16,7 +16,7 @@ body {
   cursor: pointer;
   box-shadow: white;
 }
-#clear{
+#clear {
   width: 132px;
   padding: 20px;
   margin: 0 3px;
@@ -24,9 +24,10 @@ body {
   border-radius: 9px;
   cursor: pointer;
   box-shadow: white;
-  color: rgba(227, 166, 58, 1);
+  box: rgba(227, 166, 58, 1);
+  color: aliceblue;
 }
-#equal{
+#equal {
   width: 132px;
   padding: 20px;
   margin: 0 3px;
@@ -34,7 +35,8 @@ body {
   border-radius: 9px;
   cursor: pointer;
   box-shadow: white;
-  color: rgba(227, 166, 58, 1);
+  box: rgba(227, 166, 58, 1);
+  color: aliceblue;
 }
 
 .row {
