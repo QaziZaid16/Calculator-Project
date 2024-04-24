@@ -4,7 +4,7 @@ body {
   height: 100%;
   width: 100%;
   font-family: "Roboto", sans-serif;
-  background: #121925;
+  background-color: #121925;
 }
 
 .button {
@@ -17,10 +17,10 @@ body {
   box-shadow: white;
 }
 
-.row1 .row2 .row3 .row4 {
+.row {
   margin: 8px 0;
 }
-.row1 .row2 .row3 .row4 input {
+.row input {
   width: 291px;
   font-size: 20px;
   margin: 0;
